@@ -1,0 +1,1 @@
+SetUp in NUnit should not be affected by tests in one class - i.e Tests should be stateless, otherwise one test can break another.

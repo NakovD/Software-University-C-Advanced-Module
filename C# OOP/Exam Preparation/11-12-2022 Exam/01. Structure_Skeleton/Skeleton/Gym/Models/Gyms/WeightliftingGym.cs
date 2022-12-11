@@ -1,0 +1,11 @@
+﻿namespace Gym.Models.Gyms
+{
+    public class WeightliftingGym : Gym
+    {
+        private const int weightliftingGymCapacity = 20;
+
+        public WeightliftingGym(string name) : base(name, weightliftingGymCapacity)
+        {
+        }
+    }
+}

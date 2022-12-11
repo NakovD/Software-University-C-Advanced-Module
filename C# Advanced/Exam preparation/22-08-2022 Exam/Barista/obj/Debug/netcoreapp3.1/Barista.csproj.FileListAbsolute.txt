@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\bin\Debug\netcoreapp3.1\Barista.exe
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\bin\Debug\netcoreapp3.1\Barista.deps.json
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\bin\Debug\netcoreapp3.1\Barista.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\bin\Debug\netcoreapp3.1\Barista.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\bin\Debug\netcoreapp3.1\Barista.dll
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\bin\Debug\netcoreapp3.1\Barista.pdb
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.dll
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.pdb
+C:\Users\ADMIN\source\repos\ExamAugust2022\Barista\obj\Debug\netcoreapp3.1\Barista.genruntimeconfig.cache

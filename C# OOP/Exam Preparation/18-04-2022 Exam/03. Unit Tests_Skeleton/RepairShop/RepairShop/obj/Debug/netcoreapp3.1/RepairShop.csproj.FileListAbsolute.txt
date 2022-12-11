@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2022\03. Unit Tests_Skeleton\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.genruntimeconfig.cache

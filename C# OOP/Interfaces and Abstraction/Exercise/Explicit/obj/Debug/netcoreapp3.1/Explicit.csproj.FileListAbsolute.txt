@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\bin\Debug\netcoreapp3.1\Explicit.exe
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\bin\Debug\netcoreapp3.1\Explicit.deps.json
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\bin\Debug\netcoreapp3.1\Explicit.runtimeconfig.json
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\bin\Debug\netcoreapp3.1\Explicit.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\bin\Debug\netcoreapp3.1\Explicit.dll
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\bin\Debug\netcoreapp3.1\Explicit.pdb
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.dll
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.pdb
+C:\Users\ADMIN\source\repos\AbstractionExercise\Explicit\obj\Debug\netcoreapp3.1\Explicit.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\22 Februari 2022\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

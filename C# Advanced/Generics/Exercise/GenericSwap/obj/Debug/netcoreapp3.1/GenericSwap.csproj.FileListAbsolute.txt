@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\bin\Debug\netcoreapp3.1\GenericSwap.exe
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\bin\Debug\netcoreapp3.1\GenericSwap.deps.json
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\bin\Debug\netcoreapp3.1\GenericSwap.runtimeconfig.json
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\bin\Debug\netcoreapp3.1\GenericSwap.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\bin\Debug\netcoreapp3.1\GenericSwap.dll
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\bin\Debug\netcoreapp3.1\GenericSwap.pdb
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.dll
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.pdb
+C:\Users\ADMIN\source\repos\GenericsExercise\GenericSwap\obj\Debug\netcoreapp3.1\GenericSwap.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

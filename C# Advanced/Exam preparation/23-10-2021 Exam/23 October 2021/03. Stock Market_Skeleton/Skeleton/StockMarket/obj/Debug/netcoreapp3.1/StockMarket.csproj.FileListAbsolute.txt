@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wall Destroyer/1.0.0": {
+        "runtime": {
+          "Wall Destroyer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wall Destroyer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

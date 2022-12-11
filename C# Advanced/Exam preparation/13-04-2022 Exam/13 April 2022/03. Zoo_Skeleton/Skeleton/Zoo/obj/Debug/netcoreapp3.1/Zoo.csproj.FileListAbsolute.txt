@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\13 April 2022\03. Zoo_Skeleton\Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

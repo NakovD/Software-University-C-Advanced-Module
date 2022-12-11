@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.exe
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.deps.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.genruntimeconfig.cache

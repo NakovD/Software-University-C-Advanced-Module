@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Actual Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\bin\Debug\netcoreapp3.1\Border.exe
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\bin\Debug\netcoreapp3.1\Border.deps.json
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\bin\Debug\netcoreapp3.1\Border.runtimeconfig.json
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\bin\Debug\netcoreapp3.1\Border.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\bin\Debug\netcoreapp3.1\Border.dll
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\bin\Debug\netcoreapp3.1\Border.pdb
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.dll
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.pdb
+C:\Users\ADMIN\source\repos\AbstractionExercise\Border\obj\Debug\netcoreapp3.1\Border.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\bin\Debug\netcoreapp3.1\8. List of Predicates.exe
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\bin\Debug\netcoreapp3.1\8. List of Predicates.deps.json
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\bin\Debug\netcoreapp3.1\8. List of Predicates.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\bin\Debug\netcoreapp3.1\8. List of Predicates.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\bin\Debug\netcoreapp3.1\8. List of Predicates.dll
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\bin\Debug\netcoreapp3.1\8. List of Predicates.pdb
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.dll
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.pdb
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\8. List of Predicates\obj\Debug\netcoreapp3.1\8. List of Predicates.genruntimeconfig.cache

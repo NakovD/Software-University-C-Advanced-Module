@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.exe
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.deps.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.dll
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\bin\Debug\netcoreapp3.1\SumIntegers.pdb
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.dll
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.pdb
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\SumIntegers\obj\Debug\netcoreapp3.1\SumIntegers.genruntimeconfig.cache

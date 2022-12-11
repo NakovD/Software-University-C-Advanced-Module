@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\Reflection And Attributes\s\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\18 August 2021\03. Street Racing_Skeleton\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache

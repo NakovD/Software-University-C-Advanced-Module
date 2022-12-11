@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\bin\Debug\netcoreapp3.1\FirstProblem.exe
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\bin\Debug\netcoreapp3.1\FirstProblem.deps.json
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\bin\Debug\netcoreapp3.1\FirstProblem.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\bin\Debug\netcoreapp3.1\FirstProblem.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\bin\Debug\netcoreapp3.1\FirstProblem.dll
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\bin\Debug\netcoreapp3.1\FirstProblem.pdb
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.dll
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.pdb
+C:\Users\ADMIN\source\repos\ActualExam-22-10-2022\FirstProblem\obj\Debug\netcoreapp3.1\FirstProblem.genruntimeconfig.cache

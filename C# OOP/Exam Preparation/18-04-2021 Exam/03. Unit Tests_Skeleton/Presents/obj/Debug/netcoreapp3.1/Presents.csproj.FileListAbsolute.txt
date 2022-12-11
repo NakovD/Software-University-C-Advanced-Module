@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.1\Presents.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.1\Presents.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.1\Presents.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.1\Presents.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.1\Presents.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.1\Presents.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.1\Presents.genruntimeconfig.cache

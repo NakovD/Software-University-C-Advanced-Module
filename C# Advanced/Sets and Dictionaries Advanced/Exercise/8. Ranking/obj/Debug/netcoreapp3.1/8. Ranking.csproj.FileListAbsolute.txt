@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.exe
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.deps.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.genruntimeconfig.cache

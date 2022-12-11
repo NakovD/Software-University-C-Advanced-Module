@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.exe
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.deps.json
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.dll
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.pdb
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.dll
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.pdb
+C:\Users\ADMIN\source\repos\FunctionalProgramming\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\bin\Debug\netcoreapp3.1\1. Unique Usernames.exe
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\bin\Debug\netcoreapp3.1\1. Unique Usernames.deps.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\bin\Debug\netcoreapp3.1\1. Unique Usernames.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\bin\Debug\netcoreapp3.1\1. Unique Usernames.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\bin\Debug\netcoreapp3.1\1. Unique Usernames.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\bin\Debug\netcoreapp3.1\1. Unique Usernames.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\SetsAndDictionariesExercise\obj\Debug\netcoreapp3.1\1. Unique Usernames.genruntimeconfig.cache

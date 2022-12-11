@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.exe
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.deps.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.dll
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.pdb
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.dll
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.pdb
+C:\Users\ADMIN\source\repos\ExceptionHandlingLab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.genruntimeconfig.cache

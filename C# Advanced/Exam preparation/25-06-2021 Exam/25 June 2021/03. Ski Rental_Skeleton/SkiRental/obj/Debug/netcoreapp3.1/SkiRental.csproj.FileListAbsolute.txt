@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# Advanced\Exams\25 June 2021\03. Ski Rental_Skeleton\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

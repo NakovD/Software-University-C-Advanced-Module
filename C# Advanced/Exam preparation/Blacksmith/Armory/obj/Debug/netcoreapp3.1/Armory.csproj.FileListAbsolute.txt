@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\bin\Debug\netcoreapp3.1\Armory.exe
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\bin\Debug\netcoreapp3.1\Armory.deps.json
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\bin\Debug\netcoreapp3.1\Armory.dll
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\bin\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.dll
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\ADMIN\source\repos\Blacksmith\Armory\obj\Debug\netcoreapp3.1\Armory.genruntimeconfig.cache

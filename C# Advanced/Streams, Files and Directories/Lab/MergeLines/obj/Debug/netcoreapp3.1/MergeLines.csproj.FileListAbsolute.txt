@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\bin\Debug\netcoreapp3.1\MergeLines.exe
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\bin\Debug\netcoreapp3.1\MergeLines.deps.json
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\bin\Debug\netcoreapp3.1\MergeLines.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\bin\Debug\netcoreapp3.1\MergeLines.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\bin\Debug\netcoreapp3.1\MergeLines.dll
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\bin\Debug\netcoreapp3.1\MergeLines.pdb
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.dll
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.pdb
+C:\Users\ADMIN\source\repos\SteamsFilesDirectoriesLab\MergeLines\obj\Debug\netcoreapp3.1\MergeLines.genruntimeconfig.cache

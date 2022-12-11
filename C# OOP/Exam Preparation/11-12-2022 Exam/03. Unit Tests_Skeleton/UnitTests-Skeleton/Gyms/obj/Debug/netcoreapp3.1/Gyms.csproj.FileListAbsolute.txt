@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\11 december\03. Unit Tests_Skeleton\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

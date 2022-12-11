@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.exe
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.deps.json
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.dll
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.pdb
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.dll
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.pdb
+C:\Users\ADMIN\source\repos\ExamJune25\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.genruntimeconfig.cache

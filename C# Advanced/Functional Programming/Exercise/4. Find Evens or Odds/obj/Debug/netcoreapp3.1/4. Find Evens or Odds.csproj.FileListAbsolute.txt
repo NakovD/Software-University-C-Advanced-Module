@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.exe
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.deps.json
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.dll
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.pdb
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.dll
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.pdb
+C:\Users\ADMIN\source\repos\FunctionalProgrammingExercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.genruntimeconfig.cache

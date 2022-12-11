@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.exe
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.deps.json
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.dll
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\bin\Debug\netcoreapp3.1\Bakery Shop.pdb
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.dll
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.pdb
+C:\Users\ADMIN\source\repos\Exam20February2022\Bakery Shop\obj\Debug\netcoreapp3.1\Bakery Shop.genruntimeconfig.cache

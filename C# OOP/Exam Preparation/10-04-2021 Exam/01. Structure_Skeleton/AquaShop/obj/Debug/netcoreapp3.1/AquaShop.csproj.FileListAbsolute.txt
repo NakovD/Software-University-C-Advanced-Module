@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.1\AquaShop.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.1\AquaShop.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.1\AquaShop.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.1\AquaShop.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.1\AquaShop.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.1\AquaShop.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\10 apirl 2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.1\AquaShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\bin\Debug\netcoreapp3.1\4. Even Times.exe
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\bin\Debug\netcoreapp3.1\4. Even Times.deps.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\bin\Debug\netcoreapp3.1\4. Even Times.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\bin\Debug\netcoreapp3.1\4. Even Times.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\bin\Debug\netcoreapp3.1\4. Even Times.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\bin\Debug\netcoreapp3.1\4. Even Times.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesExercise\4. Even Times\obj\Debug\netcoreapp3.1\4. Even Times.genruntimeconfig.cache

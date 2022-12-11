@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\bin\Debug\netcoreapp3.1\1. Count Same Values in Array.exe
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\bin\Debug\netcoreapp3.1\1. Count Same Values in Array.deps.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\bin\Debug\netcoreapp3.1\1. Count Same Values in Array.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\bin\Debug\netcoreapp3.1\1. Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\bin\Debug\netcoreapp3.1\1. Count Same Values in Array.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\bin\Debug\netcoreapp3.1\1. Count Same Values in Array.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\SetsAndDictionariesLab\obj\Debug\netcoreapp3.1\1. Count Same Values in Array.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\ADMIN\source\repos\Algorithms\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

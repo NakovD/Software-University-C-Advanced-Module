@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\18 april 2021\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache

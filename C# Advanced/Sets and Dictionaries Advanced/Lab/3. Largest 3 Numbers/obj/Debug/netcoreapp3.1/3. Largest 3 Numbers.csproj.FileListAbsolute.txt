@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\bin\Debug\netcoreapp3.1\3. Largest 3 Numbers.exe
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\bin\Debug\netcoreapp3.1\3. Largest 3 Numbers.deps.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\bin\Debug\netcoreapp3.1\3. Largest 3 Numbers.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\bin\Debug\netcoreapp3.1\3. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\bin\Debug\netcoreapp3.1\3. Largest 3 Numbers.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\bin\Debug\netcoreapp3.1\3. Largest 3 Numbers.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.dll
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.pdb
+C:\Users\ADMIN\source\repos\SetsAndDictionariesLab\3. Largest 3 Numbers\obj\Debug\netcoreapp3.1\3. Largest 3 Numbers.genruntimeconfig.cache

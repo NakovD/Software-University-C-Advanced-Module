@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\ADMIN\source\repos\ExericesMultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache

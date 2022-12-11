@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+C:\Users\ADMIN\Desktop\asp .net web app\SoftUni C# Advanced Module\C# OOP\examPrep\9 april 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\bin\Debug\netcoreapp3.1\8. Balanced Parentheses.exe
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\bin\Debug\netcoreapp3.1\8. Balanced Parentheses.deps.json
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\bin\Debug\netcoreapp3.1\8. Balanced Parentheses.runtimeconfig.json
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\bin\Debug\netcoreapp3.1\8. Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\bin\Debug\netcoreapp3.1\8. Balanced Parentheses.dll
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\bin\Debug\netcoreapp3.1\8. Balanced Parentheses.pdb
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.dll
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.pdb
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\StacksAndQueuesExercise\8. Balanced Parentheses\obj\Debug\netcoreapp3.1\8. Balanced Parentheses.csproj.AssemblyReference.cache
