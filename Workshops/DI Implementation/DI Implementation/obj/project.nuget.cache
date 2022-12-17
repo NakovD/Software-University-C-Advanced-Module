@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yj6GPdjqzhvWrYLZNLxXiF7vV73pRa4lgi+SrVitOhx+2vnc+LZ21KSAYqsHrtjCxRAVNTQTyCvmYuVdZNPXaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DI Implementation\\DI Implementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

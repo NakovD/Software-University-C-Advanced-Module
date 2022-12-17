@@ -1,0 +1,20 @@
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.csproj.AssemblyReference.cache
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.AssemblyInfoInputs.cache
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.AssemblyInfo.cs
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.csproj.CoreCompileInputs.cache
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DI Implementation.exe
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DI Implementation.deps.json
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DI Implementation.runtimeconfig.json
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DI Implementation.dll
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DI Implementation.pdb
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DIFramework.dll
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\bin\Debug\net6.0\DIFramework.pdb
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.csproj.CopyComplete
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.dll
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\refint\DI Implementation.dll
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.pdb
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\DI Implementation.genruntimeconfig.cache
+C:\Users\David\s\r\SoftUni C# Advanced\Software-University-C-Advanced-Module\Workshops\DI Implementation\DI Implementation\obj\Debug\net6.0\ref\DI Implementation.dll

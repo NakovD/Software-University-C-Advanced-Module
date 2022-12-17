@@ -1,1 +1,0 @@
-Delegates -> Defining type which is used to create another type.

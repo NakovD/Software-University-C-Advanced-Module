@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI Implementation", "DI Implementation\DI Implementation.csproj", "{CA75C844-18A7-45B8-BCF9-7E7BDCAE3EAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AB81042-AE09-4850-8862-140C74C333C2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIFramework", "DIFramework\DIFramework.csproj", "{1CF87FC5-C26E-42C0-9B6E-A0B66BFBD994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA75C844-18A7-45B8-BCF9-7E7BDCAE3EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA75C844-18A7-45B8-BCF9-7E7BDCAE3EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA75C844-18A7-45B8-BCF9-7E7BDCAE3EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA75C844-18A7-45B8-BCF9-7E7BDCAE3EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF87FC5-C26E-42C0-9B6E-A0B66BFBD994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF87FC5-C26E-42C0-9B6E-A0B66BFBD994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF87FC5-C26E-42C0-9B6E-A0B66BFBD994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF87FC5-C26E-42C0-9B6E-A0B66BFBD994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05B2EEC-AE6E-4AAF-A551-339D222C049B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DI Implementation\\DI Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DI Implementation\\DI Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DI Implementation\\DI Implementation.csproj",
+        "projectName": "DI Implementation",
+        "projectPath": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DI Implementation\\DI Implementation.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DI Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DIFramework\\DIFramework.csproj": {
+                "projectPath": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DIFramework\\DIFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DIFramework\\DIFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DIFramework\\DIFramework.csproj",
+        "projectName": "DIFramework",
+        "projectPath": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DIFramework\\DIFramework.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\s\\r\\SoftUni C# Advanced\\Software-University-C-Advanced-Module\\Workshops\\DI Implementation\\DIFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

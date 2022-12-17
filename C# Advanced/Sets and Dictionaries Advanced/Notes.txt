@@ -1,6 +1,0 @@
-How to sort dictionary:
-.OrderBy(predicate).ToDictionary(x => x.Key, x => x.Value)
-
-HashSet works with Hash Function and because of that is very quick.
-HashFunction returns specific index when adding element. And when we search in the hashset, it really fast, 
-because its doesnt search, it actually just gets the index for the element.

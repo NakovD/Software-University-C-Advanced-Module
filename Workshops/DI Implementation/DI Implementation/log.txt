@@ -1,0 +1,4 @@
+<info>New person was added with name: David<info>
+<info>Found person with name: David<info>
+<error>No person with Hristo name was found.<error>
+<error>No person with Hristo name was found.<error>
