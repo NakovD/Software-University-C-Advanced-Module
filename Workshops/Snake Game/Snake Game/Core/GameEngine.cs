@@ -24,7 +24,6 @@
 
             while (true)
             {
-                Thread.Sleep(50);
                 if (Console.KeyAvailable)
                 {
                     var direction = ReadKeys();
@@ -32,6 +31,7 @@
                 }
 
                 snake.Move();
+                Thread.Sleep(50);
             }
 
         }
