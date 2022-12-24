@@ -1,6 +1,7 @@
 ﻿namespace SnakeGame.Models.Snake.Contracts
 {
     using Enums;
+    using Cell.Contracts;
 
     public interface ISnake
     {
@@ -10,6 +11,8 @@
 
         void Draw(int startLeft, int startTop);
 
-        void Move();
+        ICell Move();
+
+        void Grow();
     }
 }

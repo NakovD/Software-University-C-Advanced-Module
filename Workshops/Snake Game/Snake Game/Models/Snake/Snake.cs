@@ -2,9 +2,9 @@
 {
     using Contracts;
     using Enums;
+    using Cell.Contracts;
 
     using System;
-    using System.Collections.ObjectModel;
 
     public class Snake : ISnake
     {
@@ -71,12 +71,19 @@
             snakeHead.Draw(GetSnakeSymbolBasedOnDirection("snakeHeadRight"));
         }
 
-        public void Move()
+        public ICell Move()
         {
             snakeBody.Last.Value.Clear();
             snakeBody.RemoveLast();
-            snakeBody.First.Value.Draw(GetSnakeSymbolBasedOnDirection("snakeBodyHorizontal"));
 
+            Grow();
+
+            var newHead = snakeBody.First.Value;
+            return newHead;
+        }
+
+        public void Grow()
+        {
             var newSnakePartX = 0;
             var newSnakePartY = 0;
             var bodySymbol = string.Empty;
@@ -114,7 +121,6 @@
             snakeBody.AddFirst(newHead);
             snakeBody.First.Next.Value.Draw(bodySymbol);
             newHead.Draw(headSymbol);
-
         }
 
         private static string GetSnakeSymbolBasedOnDirection(string instruction)
