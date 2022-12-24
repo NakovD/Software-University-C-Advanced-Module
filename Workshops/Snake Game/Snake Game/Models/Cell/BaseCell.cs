@@ -1,14 +1,16 @@
-﻿namespace SnakeGame.Models.Snake
+﻿namespace SnakeGame.Models.Cell
 {
     using Contracts;
 
-    public class SnakePart : ISnakePart
+    using System;
+
+    public abstract class BaseCell : ICell, IEquatable<BaseCell>
     {
         public int XPosition { get; private set; }
 
         public int YPosition { get; private set; }
 
-        public SnakePart(int xPosition, int yPosition)
+        public BaseCell(int xPosition, int yPosition)
         {
             XPosition = xPosition;
             YPosition = yPosition;
@@ -25,5 +27,7 @@
             Console.SetCursorPosition(XPosition, YPosition);
             Console.Write(" ");
         }
+
+        public bool Equals(BaseCell other) => XPosition == other.XPosition && YPosition == other.YPosition;
     }
 }

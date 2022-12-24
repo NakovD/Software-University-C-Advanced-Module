@@ -1,13 +1,10 @@
 ﻿namespace SnakeGame.Models.Snake.Contracts
 {
-    public interface ISnakePart
+    using Cell;
+    using Cell.Contracts;
+
+    public interface ISnakePart : ICell
     {
-        int XPosition { get; }
-
-        int YPosition { get; }
-
-        public void Draw(string character);
-
-        public void Clear();
+        
     }
 }
