@@ -12,30 +12,36 @@
     using Models.Borders.Contracts;
 
     using System;
+    using SnakeGame.Models.Borders;
 
     public class GameEngine : IEngine
     {
         private IFood currentFood;
 
+        private IBorder border;
+
         private FoodGenerator foodGenerator;
+
+        private Snake snake;
 
         private int points;
 
         public GameEngine()
         {
             foodGenerator = new FoodGenerator();
+            snake = new Snake();
         }
 
         public void Run()
         {
             ConsoleSetup.Configure();
 
-            IBorder boxBorder = new BoxBorder();
-            boxBorder.Draw();
+            border = new LinesOnlyBorder();
+
+            border.Draw();
 
             GenerateFood();
 
-            var snake = new Snake();
             snake.Draw();
 
             while (true)
@@ -46,27 +52,42 @@
                     snake.Direction = direction;
                 }
 
+                var newSnakeHeadPosition = (BaseCell)snake.Move();
+
                 try
                 {
-                    var newSnakeHeadPosition = (BaseCell)snake.Move();
-                    var foodCell = (BaseCell)currentFood;
-                    if (newSnakeHeadPosition.Equals(foodCell))
-                    {
-                        points += currentFood.Points;
-                        snake.Grow();
-                        GenerateFood();
-                    }
+                    CheckForInteraction(newSnakeHeadPosition);
                     Thread.Sleep(50);
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
                     Console.Clear();
                     Console.SetCursorPosition(0, 0);
+                    Console.WriteLine("Game over!");
                     Console.WriteLine($"Score: {points}");
+                    Console.WriteLine($"Reason for game over: {ex.Message}");
                     break;
                 }
+
+            }
+        }
+
+        private void CheckForInteraction(BaseCell newSnakeHeadPosition)
+        {
+            if (newSnakeHeadPosition == null) throw new Exception("You hit yourself!"); //snake hit herself
+
+            if (border.borderCells.Any(bc => bc.Equals(newSnakeHeadPosition))) throw new Exception("You hit the border!"); //snake hit the border
+
+            var foodCell = (BaseCell)currentFood;
+
+            if (newSnakeHeadPosition.Equals(foodCell))  //snake found food
+            {
+                points += currentFood.Points;
+                snake.Grow();
+                GenerateFood();
             }
 
+            //nothing happened - snake just moved one place further
         }
 
         private void GenerateFood()

@@ -10,6 +10,8 @@
     {
         private const int startingSnakeLength = 4;
 
+        private bool snakeAteHerself;
+
         private LinkedList<SnakePart> snakeBody;
 
         private SnakeDirection direction;
@@ -79,6 +81,9 @@
             Grow();
 
             var newHead = snakeBody.First.Value;
+
+            if (snakeAteHerself) return null;
+
             return newHead;
         }
 
@@ -118,6 +123,9 @@
             }
 
             var newHead = new SnakePart(newSnakePartX, newSnakePartY);
+
+            snakeAteHerself = snakeBody.Any(sbp => sbp.Equals(newHead));
+
             snakeBody.AddFirst(newHead);
             snakeBody.First.Next.Value.Draw(bodySymbol);
             newHead.Draw(headSymbol);

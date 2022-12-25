@@ -29,5 +29,18 @@
         }
 
         public bool Equals(BaseCell other) => XPosition == other.XPosition && YPosition == other.YPosition;
+
+        public override bool Equals(object obj)
+        {
+            if (obj == null) return false;
+            var other = obj as BaseCell;
+            if (other == null) return false;
+            return Equals(other);
+        }
+
+        public override int GetHashCode()
+        {
+            return XPosition.GetHashCode() + YPosition.GetHashCode();
+        }
     }
 }

@@ -1,8 +1,11 @@
 ﻿namespace SnakeGame.Models
 {
+    using Borders;
     using Borders.Contracts;
+    using Cell;
 
     using System;
+    using System.Collections.Generic;
     using System.Text;
 
     public class BoxBorder : IBorder
@@ -17,10 +20,13 @@
 
         private const string horizontalBorderSymbolBottom = "_";
 
+        public HashSet<BaseCell> borderCells { get; private set; }
+
         public BoxBorder()
         {
             consoleWidth = Console.WindowWidth - 1;
             consoleHeight = Console.WindowHeight - 1;
+            borderCells = new HashSet<BaseCell>();
         }
 
         public void Draw()
@@ -35,10 +41,12 @@
 
             for (int i = 0; i < consoleHeight; i++)
             {
-                Console.SetCursorPosition(0, i);
-                Console.WriteLine(verticalBorderSymbol);
-                Console.SetCursorPosition(leftCursorPosition, i);
-                Console.WriteLine(verticalBorderSymbol);
+                var leftBorderCell = new BorderCell(0, i);
+                leftBorderCell.Draw(verticalBorderSymbol);
+                var rightBorderCell = new BorderCell(leftCursorPosition, i);
+                rightBorderCell.Draw(verticalBorderSymbol);
+                borderCells.Add(leftBorderCell);
+                borderCells.Add(rightBorderCell);
             }
         }
 
@@ -50,11 +58,15 @@
 
             for (int i = 0; i < consoleWidth - 1; i++)
             {
+
                 var index = i == 0 ? 1 : i;
-                Console.SetCursorPosition(index, 0);
-                Console.WriteLine(horizontalBorderSymbolTop);
-                Console.SetCursorPosition(index, topCursorPosition);
-                Console.WriteLine(horizontalBorderSymbolBottom);
+
+                var topBorderCell = new BorderCell(index, 0);
+                topBorderCell.Draw(horizontalBorderSymbolTop);
+                var bottomBorderCell = new BorderCell(index, topCursorPosition);
+                bottomBorderCell.Draw(horizontalBorderSymbolBottom);
+                borderCells.Add(topBorderCell);
+                borderCells.Add(bottomBorderCell);
             }
         }
     }
