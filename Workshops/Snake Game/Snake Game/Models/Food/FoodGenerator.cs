@@ -2,6 +2,8 @@
 {
     using Contracts;
 
+    using System.Reflection;
+
     public class FoodGenerator
     {
         private Random random;
@@ -21,7 +23,18 @@
         {
             var foodXCoordinates = random.Next(min, xMax);
             var foodYCoordinates = random.Next(min, yMax);
-            var food = new NormalFood(foodXCoordinates, foodYCoordinates);
+
+            var allFoodTypes = Assembly
+                                    .GetExecutingAssembly()
+                                    .GetTypes()
+                                    .Where(t => !t.IsAbstract && typeof(IFood).IsAssignableFrom(t)).ToList();
+
+            var randomFoodTypeIndex = random.Next(1, allFoodTypes.Count + 1);
+
+            var randomFoodType = allFoodTypes[randomFoodTypeIndex - 1];
+
+            var food = Activator.CreateInstance(randomFoodType, new object[] { foodXCoordinates, foodYCoordinates }) as IFood;
+
             return food;
         }
     }
