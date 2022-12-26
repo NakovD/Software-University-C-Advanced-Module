@@ -37,9 +37,9 @@
 
         private void DrawVerticalBorderLines()
         {
-            var leftCursorPosition = consoleWidth - 1;
+            var leftCursorPosition = consoleWidth;
 
-            for (int i = 0; i < consoleHeight; i++)
+            for (int i = 0; i <= consoleHeight; i++)
             {
                 var leftBorderCell = new BorderCell(0, i);
                 leftBorderCell.Draw(verticalBorderSymbol);
@@ -52,13 +52,10 @@
 
         private void DrawHorizontalBorderLines()
         {
-            var topCursorPosition = consoleHeight - 1;
+            var topCursorPosition = consoleHeight;
 
-            Console.OutputEncoding = Encoding.Unicode;
-
-            for (int i = 0; i < consoleWidth - 1; i++)
+            for (int i = 0; i < consoleWidth; i++)
             {
-
                 var index = i == 0 ? 1 : i;
 
                 var topBorderCell = new BorderCell(index, 0);
