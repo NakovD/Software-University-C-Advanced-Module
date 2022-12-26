@@ -4,15 +4,16 @@
     using Enums;
     using Infrastucture;
     using Models;
+    using Models.Borders;
+    using Models.Borders.Contracts;
+    using Models.Cell.Contracts;
+    using Models.Cell;
     using Models.Food;
     using Models.Food.Contracts;
-    using Models.Cell;
-    using Models.Cell.Contracts;
     using Models.Snake;
-    using Models.Borders.Contracts;
 
     using System;
-    using SnakeGame.Models.Borders;
+    using System.Text;
 
     public class GameEngine : IEngine
     {
@@ -30,13 +31,15 @@
         {
             foodGenerator = new FoodGenerator();
             snake = new Snake();
+            border = new EmptyBorder();
+            Console.OutputEncoding = Encoding.Unicode;
         }
 
         public void Run()
         {
             ConsoleSetup.Configure();
 
-            border = new LinesOnlyBorder();
+            border = new BoxBorder();
 
             border.Draw();
 
@@ -92,7 +95,7 @@
 
         private void GenerateFood()
         {
-            var newFood = foodGenerator.Generate();
+            var newFood = foodGenerator.Generate(border.borderCells);
             currentFood = newFood;
             var newFoodCell = (ICell)currentFood;
             newFoodCell.Draw(currentFood.Symbol);
