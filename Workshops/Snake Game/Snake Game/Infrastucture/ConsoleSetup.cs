@@ -28,6 +28,8 @@
         public static void Configure()
         {
             ShowWindow(ThisConsole, MAXIMIZE);
+            Console.SetWindowSize(Console.LargestWindowWidth, Console.LargestWindowHeight);
+            Console.SetBufferSize(Console.WindowWidth, Console.WindowHeight); //to ensure there is no scroll
         }
     }
 }

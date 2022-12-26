@@ -8,7 +8,7 @@
 
     public class Snake : ISnake
     {
-        private const int startingSnakeLength = 4;
+        private const int startingSnakeLength = 5;
 
         private bool snakeAteHerself;
 
@@ -60,7 +60,9 @@
 
             var startLeftI = startLeft;
 
-            for (int i = 0; i < startingSnakeLength; i++)
+            var snakeLenghtWithoutHead = startingSnakeLength - 1;
+
+            for (int i = 0; i < snakeLenghtWithoutHead; i++)
             {
                 var newSnakeBodyPart = new SnakePart(startLeftI, startTop);
                 snakeBody.AddFirst(newSnakeBodyPart);
@@ -126,9 +128,29 @@
 
             snakeAteHerself = snakeBody.Any(sbp => sbp.Equals(newHead));
 
+            try
+            {
+                newHead.Draw(headSymbol);
+            }
+            catch (ArgumentOutOfRangeException ex)
+            {
+                newHead = GetNewHead(newSnakePartX, newSnakePartY);
+                newHead.Draw(headSymbol);
+            }
+
             snakeBody.AddFirst(newHead);
             snakeBody.First.Next.Value.Draw(bodySymbol);
-            newHead.Draw(headSymbol);
+        }
+
+        private SnakePart GetNewHead(int previousHeadX, int previousHeadY)
+        {
+            switch (Direction)
+            {
+                case SnakeDirection.Right: return new SnakePart(0, previousHeadY);
+                case SnakeDirection.Left: return new SnakePart(Console.WindowWidth - 1, previousHeadY);
+                case SnakeDirection.Up: return new SnakePart(previousHeadX, Console.WindowHeight - 1);
+                default: return new SnakePart(previousHeadX, 0);
+            }
         }
 
         private static string GetSnakeSymbolBasedOnDirection(string instruction)
@@ -139,7 +161,7 @@
                 case "snakeBodyHorizontal": return "—";
                 case "snakeBodyVertical": return "|";
                 case "snakeHeadUp": return "\u02C4"; ;
-                case "snakeHeadDown": return "\u02C5"; ;
+                case "snakeHeadDown": return "\u02C5";
                 case "snakeHeadLeft": return "<";
                 default: return ">";
             }
