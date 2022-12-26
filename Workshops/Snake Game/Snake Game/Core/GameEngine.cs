@@ -39,7 +39,7 @@
         {
             ConsoleSetup.Configure();
 
-            border = new BoxBorder();
+            border = new LinesOnlyBorder();
 
             border.Draw();
 

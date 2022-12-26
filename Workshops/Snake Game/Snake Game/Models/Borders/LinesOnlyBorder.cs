@@ -19,52 +19,65 @@
 
         public void Draw()
         {
-            DrawFirstLine();
-            DrawSecondLine();
-            DrawThirdLine();
+            DrawTopVerticalLine();
+            DrawBottomVerticalLine();
+            DrawTopHorizontalLine();
+            DrawBottomHorizontalLine();
         }
 
-        private void DrawFirstLine()
+        private void DrawTopVerticalLine()
         {
-            var topOffset = 15;
-            var lineLength = 40;
+            var x = (int)(Console.WindowWidth * 0.2);
+            var lineHeight = (int)(Console.WindowHeight * 0.4);
 
-            for (int i = 0; i < lineLength; i++)
+            for (int i = 0; i < lineHeight; i++)
             {
-                var newBorderCell = new BorderCell(i, topOffset);
+                var newBorderCell = new BorderCell(x, i);
                 newBorderCell.Draw(borderSymbol);
                 borderCells.Add(newBorderCell);
             }
         }
 
-        private void DrawSecondLine()
+        private void DrawBottomVerticalLine()
         {
-            var topOffset = 30;
-            var lineLength = 80;
-            var lineStart = Console.WindowWidth - 1 - lineLength;
-            var lineEnd = Console.WindowWidth - 1;
+            var x = Console.WindowWidth - (int)(Console.WindowWidth * 0.2);
+            var lineHeight = (int)(Console.WindowHeight * 0.4);
 
-            for (int i = lineStart; i < lineEnd; i++)
+            var startIndex = Console.WindowHeight - lineHeight;
+            for (int i = startIndex; i < Console.WindowHeight; i++)
             {
-                var newBorderCell = new BorderCell(i, topOffset);
+                var newBorderCell = new BorderCell(x, i);
                 newBorderCell.Draw(borderSymbol);
                 borderCells.Add(newBorderCell);
             }
         }
 
-        private void DrawThirdLine()
+        private void DrawTopHorizontalLine()
         {
-            var leftOffset = 150;
-            var lineHeight = 40;
-            var lineStart = Console.WindowHeight - 1 - lineHeight;
-            var lineEnd = Console.WindowHeight - 1;
+            var y = (int)(Console.WindowHeight * 0.4);
+            var lineWidth = (int)(Console.WindowWidth * 0.4);
 
-            for (int i = lineStart; i < lineEnd; i++)
+            var startIndex = Console.WindowWidth - lineWidth;
+            for (int i = startIndex; i < Console.WindowWidth; i++)
             {
-                var newBorderCell = new BorderCell(leftOffset, i);
-                newBorderCell.Draw(borderSymbol);
-                borderCells.Add(newBorderCell);
+                var cell = new BorderCell(i, y);
+                cell.Draw(borderSymbol);
+                borderCells.Add(cell);
             }
         }
+
+        private void DrawBottomHorizontalLine()
+        {
+            var y = Console.WindowHeight - (int)(Console.WindowHeight * 0.4);
+            var lineWidth = (int)(Console.WindowWidth * 0.4);
+
+            for (int i = 0; i < lineWidth; i++)
+            {
+                var cell = new BorderCell(i, y);
+                cell.Draw(borderSymbol);
+                borderCells.Add(cell);
+            }
+        }
+
     }
 }
