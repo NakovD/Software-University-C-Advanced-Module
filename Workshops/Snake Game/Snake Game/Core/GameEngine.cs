@@ -39,7 +39,7 @@
         {
             ConsoleSetup.Configure();
 
-            border = new LinesOnlyBorder();
+            border = new MazeBorder();
 
             border.Draw();
 
