@@ -4,7 +4,7 @@
 
     public interface IBorder
     {
-        HashSet<BaseCell> borderCells { get; }
+        IReadOnlyCollection<BaseCell> BorderCells { get; }
 
         void Draw();
     }

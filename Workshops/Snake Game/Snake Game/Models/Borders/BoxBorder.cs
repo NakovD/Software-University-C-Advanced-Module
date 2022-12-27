@@ -20,7 +20,9 @@
 
         private const string horizontalBorderSymbolBottom = "_";
 
-        public HashSet<BaseCell> borderCells { get; private set; }
+        private HashSet<BaseCell> borderCells;
+
+        public IReadOnlyCollection<BaseCell> BorderCells => borderCells.ToList().AsReadOnly();
 
         public BoxBorder()
         {
