@@ -20,7 +20,7 @@
             random = new Random();
         }
 
-        public IFood Generate(HashSet<BaseCell> takenCells)
+        public IFood Generate(IEnumerable<BaseCell> takenCells)
         {
             (int foodXCoordinates, int foodYCoordinates) = GetCoordinatesOfAFreeCell(takenCells);
 
@@ -38,7 +38,7 @@
             return food;
         }
 
-        private (int foodXCoordinates, int foodYCoordinates) GetCoordinatesOfAFreeCell(HashSet<BaseCell> takenCells)
+        private (int foodXCoordinates, int foodYCoordinates) GetCoordinatesOfAFreeCell(IEnumerable<BaseCell> takenCells)
         {
             var hasFound = false;
             var foodXCoordinate = 0;

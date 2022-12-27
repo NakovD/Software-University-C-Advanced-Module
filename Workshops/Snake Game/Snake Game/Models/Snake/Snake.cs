@@ -2,6 +2,7 @@
 {
     using Contracts;
     using Enums;
+    using Cell;
     using Cell.Contracts;
 
     using System;
@@ -15,6 +16,8 @@
         private LinkedList<SnakePart> snakeBody;
 
         private SnakeDirection direction;
+
+        public IReadOnlyCollection<BaseCell> SnakeCells => snakeBody.ToList().AsReadOnly();
 
         public int SnakeLength { get; set; }
 

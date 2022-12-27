@@ -79,7 +79,7 @@
         {
             if (newSnakeHeadPosition == null) throw new Exception("You hit yourself!"); //snake hit herself
 
-            if (border.borderCells.Any(bc => bc.Equals(newSnakeHeadPosition))) throw new Exception("You hit the border!"); //snake hit the border
+            if (border.BorderCells.Any(bc => bc.Equals(newSnakeHeadPosition))) throw new Exception("You hit the border!"); //snake hit the border
 
             var foodCell = (BaseCell)currentFood;
 
@@ -95,7 +95,8 @@
 
         private void GenerateFood()
         {
-            var newFood = foodGenerator.Generate(border.borderCells);
+            var takenCells = border.BorderCells.Concat(snake.SnakeCells);
+            var newFood = foodGenerator.Generate(takenCells);
             currentFood = newFood;
             var newFoodCell = (ICell)currentFood;
             newFoodCell.Draw(currentFood.Symbol);
