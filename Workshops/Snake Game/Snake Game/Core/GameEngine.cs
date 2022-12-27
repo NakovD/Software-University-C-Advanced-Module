@@ -17,6 +17,8 @@
 
     public class GameEngine : IEngine
     {
+        private int gameSpeed;
+
         private IFood currentFood;
 
         private IBorder border;
@@ -39,13 +41,14 @@
         {
             ConsoleSetup.Configure();
 
-            border = new MazeBorder();
+            ShowIntroScreen();
 
-            border.Draw();
+            StartGame();
+        }
 
-            GenerateFood();
-
-            snake.Draw();
+        private void StartGame()
+        {
+            InitialSetup();
 
             while (true)
             {
@@ -60,19 +63,123 @@
                 try
                 {
                     CheckForInteraction(newSnakeHeadPosition);
-                    Thread.Sleep(50);
+                    Thread.Sleep(gameSpeed);
                 }
                 catch (Exception ex)
                 {
-                    Console.Clear();
-                    Console.SetCursorPosition(0, 0);
-                    Console.WriteLine("Game over!");
-                    Console.WriteLine($"Score: {points}");
-                    Console.WriteLine($"Reason for game over: {ex.Message}");
+                    ShowGameOverScreen(ex.Message);
                     break;
                 }
 
             }
+        }
+
+        private void ShowGameOverScreen(string message)
+        {
+            Console.Clear();
+            Console.SetCursorPosition(0, 0);
+            Console.WriteLine("Game over!");
+            Console.WriteLine($"Score: {points}");
+            Console.WriteLine($"Reason for game over: {message}");
+        }
+
+        private void InitialSetup()
+        {
+            border.Draw();
+
+            GenerateFood();
+
+            snake.Draw();
+        }
+
+        private void ShowIntroScreen()
+        {
+            Console.WriteLine("Hello and Welcome to the game!");
+            MakeUserChooseSpeed();
+            Console.SetCursorPosition(0, 7);
+            MakeUserChooseLevel();
+            Console.Clear();
+        }
+
+        private void MakeUserChooseLevel()
+        {
+            Console.WriteLine("Please select a level:");
+            Console.WriteLine("We have the following levels:\nClassic\nBox\nBorders\nCross\nLabyrinth\nMaze");
+            Console.WriteLine("Write the level you selected:");
+            ReadLevel();
+        }
+
+        private void MakeUserChooseSpeed()
+        {
+            Console.WriteLine("Please select speed for the snake:");
+            Console.WriteLine("We have the following speeds:\nSlow = 1\nMedium = 2\nFast = 3");
+            Console.Write("Choose you preference(with numpad): ");
+            var speed = ReadSpeed();
+            if (speed == 1) gameSpeed = 250;
+            if (speed == 2) gameSpeed = 150;
+            if (speed == 3) gameSpeed = 50;
+        }
+
+        private void ReadLevel()
+        {
+            var hasUserSelectedLevel = false;
+            (int x, int y) = Console.GetCursorPosition();
+
+            while (!hasUserSelectedLevel)
+            {
+                var data = Console.ReadLine();
+                IBorder level = GetLevel(data);
+                if (level == null)
+                {
+                    Console.SetCursorPosition(x, y);
+                    Console.WriteLine(new string(' ', Console.WindowWidth - 1));
+                    Console.SetCursorPosition(x, y);
+                    continue;
+                }
+
+                hasUserSelectedLevel = true;
+                border = level;
+            }
+        }
+
+        private IBorder GetLevel(string data)
+        {
+            data = data.ToLower();
+            switch (data)
+            {
+                case "classic": return new EmptyBorder();
+                case "box": return new BoxBorder();
+                case "borders": return new CornersBorder();
+                case "cross": return new CrossBorder();
+                case "labyrinth": return new LinesOnlyBorder();
+                case "maze": return new MazeBorder();
+                default: return null;
+            }
+        }
+
+        private int ReadSpeed()
+        {
+            (int x, int y) = Console.GetCursorPosition();
+            var hasChosenCorrectSpeed = false;
+            var speed = 0;
+
+            while (!hasChosenCorrectSpeed)
+            {
+                var key = Console.ReadKey().Key;
+                if (key != ConsoleKey.D1 && key != ConsoleKey.D2 && key != ConsoleKey.D3)
+                {
+                    Console.SetCursorPosition(x, y);
+                    Console.Write(" ");
+                    Console.SetCursorPosition(x, y);
+                    continue;
+                }
+                hasChosenCorrectSpeed = true;
+                if (key == ConsoleKey.D1) speed = 1;
+                else if (key == ConsoleKey.D2) speed = 2;
+                else speed = 3;
+            }
+
+            return speed;
         }
 
         private void CheckForInteraction(BaseCell newSnakeHeadPosition)
